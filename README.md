@@ -22,6 +22,12 @@
 - Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
 
 
+
+thanks for slash command template 
+```
+https://github.com/Adivise/NanoStyle
+```
+
 ## 📚 Installation
 
 ```
