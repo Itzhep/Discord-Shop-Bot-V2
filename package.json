@@ -1,0 +1,25 @@
+{
+  "name": "DiscordShop Bot ",
+  "version": "2.0.0",
+  "description": "Discord Shop Bot Version 2  👌",
+  "main": "index.js",
+  "dependencies": {
+    "chillout": "^5.0.0",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "plsargs": "^0.1.6",
+    "recursive-readdir": "^2.2.2",
+    "stuffs": "^0.1.17"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "Danial",
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
